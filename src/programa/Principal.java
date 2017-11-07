@@ -96,11 +96,11 @@ public class Principal extends javax.swing.JFrame {
 
         jButton5.setText("Registrar");
         jPanel3.add(jButton5);
-        jButton5.setBounds(280, 240, 90, 30);
+        jButton5.setBounds(280, 250, 90, 30);
 
         jButton6.setText("Busqueda");
         jPanel3.add(jButton6);
-        jButton6.setBounds(280, 290, 90, 30);
+        jButton6.setBounds(280, 320, 90, 30);
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/fondo.jpg"))); // NOI18N
         jPanel3.add(jLabel2);
